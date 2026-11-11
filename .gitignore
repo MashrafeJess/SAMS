@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Database/Migrations/20261109181236_InitialCreate.cs
+/Database/Migrations/SamsDbContextModelSnapshot.cs
